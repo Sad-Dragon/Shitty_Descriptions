@@ -35,7 +35,12 @@
 - id: 770
   en: Mega-Ether
 - id: 771
-  en: Ok Donald, now can you try healing me this time?. An equippable item.{:reset}
+  en: >-
+       Sureley they won't squander this immediately.
+
+      Right?
+
+      An equippable item.
 - id: 772
   en: Megalixir
 - id: 773
@@ -184,7 +189,10 @@
 - id: 2742
   en: Guess Ill die...
 - id: 7777
-  en: Send a mofo to the moon by using {:icon dynamic-square} during a combo.
+  en: >-
+     Send a mofo to the moon
+  
+     by using {:icon dynamic-square} during a combo.
 - id: 8052
   en: Lets you see green bars.
 - id: 10329
