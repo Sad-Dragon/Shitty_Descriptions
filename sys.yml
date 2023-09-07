@@ -95,12 +95,8 @@
   en: You wouldn't download a frisbee
 - id: 1511
   en:  You have bear fists?
-- id: 1512
-  en: Bone Fist
 - id: 1513
   en:  You have bone fists?
-- id: 1514
-  en: Proud Fang
 - id: 1515
   en:  "#pride"
 - id: 1516
@@ -122,36 +118,26 @@
      Burn anything that is 4 inches near you.
 
      {:width 90}Use from the Magic Command. {:color #F0F00080}MP Cost:{:width 100} 12{:reset}
-- id: 1590
-  en: Blizzard Element
 - id: 1591
   en: >-
      DEEP FREEZE.
 
      {:width 90}Use from the Magic Command. {:color #F0F00080}MP Cost:{:width 100} 15{:reset}
-- id: 1592
-  en: Thunder Element
 - id: 1593
   en: >-
      zap.
 
      {:width 90}Use from the Magic Command. {:color #F0F00080}MP Cost:{:width 100} 18{:reset}
-- id: 1594
-  en: Cure Element
 - id: 1595
   en: >-
      For when Donald dies.
 
      {:width 90}Use from the Magic Command. {:color #F0F00080}MP Cost:{:width 100} All{:reset}
-- id: 1596
-  en: Magnet Element
 - id: 1597
   en: >-
      Gather deez nuts.
 
      {:width 90}Use from the Magic Command. {:color #F0F00080}MP Cost:{:width 100} 30{:reset}
-- id: 1598
-  en: Reflect Element
 - id: 1599
   en: >-
      Blocked and reported.
@@ -183,7 +169,7 @@
 
      If you press {:icon dynamic-square}, you can block shit.
 - id: 2625
-  en: Tifas Chest
+  en: Tifa's Chest
 - id: 2741
   en: Mickey, please
 - id: 2742
@@ -388,7 +374,7 @@
 - id: 14735
   en: Slide Dash
 - id: 14736
-  en: Teleports behind u
+  en: Nothin personnel, kid
 - id: 14737
   en: Guard Break
 - id: 14738
@@ -880,7 +866,7 @@
 
      Not mushroom for debate...
 - id: 20083
-  en: Nothin personnel, kid
+  en: Teleports behind u
 - id: 20084
   en: Aerial Dive
 - id: 20085
