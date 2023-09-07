@@ -82,8 +82,6 @@
 - id: 1499
   en: >-
      He's got a sword!
-- id: 1500
-  en: Battlefields of War
 - id: 1501
   en: Pain is only onefold.
 - id: 1503
@@ -99,7 +97,6 @@
   en:  You have bone fists?
 - id: 1515
   en:  "#pride"
-- id: 1516
 - id: 1517
   en: For the last time, it isn't a typo!
 - id: 1518
@@ -110,7 +107,7 @@
 
      Yeah i said it.
 - id: 1522
-  en: Torn Pages
+  en: Torn Pagies
 - id: 1523
   en: One step closer to yeeting the bear...
 - id: 1589
@@ -143,24 +140,14 @@
      Blocked and reported.
 
      {:width 90}Use from the Magic Command. {:color #F0F00080}MP Cost:{:width 100} 10{:reset}
-- id: 1600
-  en: Ukulele Charm
 - id: 1601
   en: Meega, nala kweesta!.
-- id: 1602
-  en: Valor Form
 - id: 1603
   en: Roxas does it better.
-- id: 1604
-  en: Wisdom Form
 - id: 1605
   en: Pew pew pew!
-- id: 1606
-  en: Master Form
 - id: 1607
   en: Drive Converter time
-- id: 1608
-  en: Final Form
 - id: 1609
   en: Finally
 - id: 1645
@@ -426,32 +413,26 @@
      You got Anti-Form, didn't you...
 
      Usable only from the Main Menu.
-- id: 14813
-  en: Power Boost
 - id: 14814
   en: >-
      Tastes like cherries.
 
      Don't give this to Donald or Goofy.
-- id: 14815
-  en: Magic Boost
 - id: 14816
   en: >-
      Tastes like cabbage.
 
      Don't give this to Donald or Goofy.
-- id: 14817
-  en: Defense Boost
 - id: 14818
   en: >-
      Tastes like lemons.
 
      Don't give this to Donald or Goofy.
-- id: 14819
-  en: AP Boost
 - id: 14820
   en: >-
-     Snack on like 20 of these at once.
+     Taste like blueberries.
+     
+     Snack on like 20 of these at once!
 
      Don't give this to Donald or Goofy.
 - id: 14924
@@ -465,7 +446,7 @@
 - id: 15120
   en: Have fun on your Rando run!
 - id: 15121
-  en: Poster
+  en: Note from Sad Dragon
 - id: 15122
   en: Have fun on your Rando run!
 - id: 15123
@@ -479,7 +460,7 @@
 - id: 15127
   en: Weed Card
 - id: 15128
-  en: Its OK
+  en: Its OK! I got it.
 - id: 15129
   en: Olympus Stone
 - id: 15130
