@@ -644,7 +644,10 @@
 - id: 15374
   en: Hyper Healing
 - id: 15375
-  en: GET UP, DONALD!
+  en: >-
+       WAKE UP!
+
+       GRAB A BRUSH AND PUT A LITTLE MAKE-UP!
 - id: 15376
   en: Auto Healing
 - id: 15377
@@ -682,9 +685,9 @@
 - id: 15923
   en: Yar Har Fiddle Dee Dee
 - id: 15924
-  en: Circle of Life
+  en: {:icon button-circle} of Life
 - id: 15925
-  en: The barcode says e621...
+  en: The keychain says e621...
 - id: 15926
   en: Photon Debugger
 - id: 15927
@@ -696,8 +699,6 @@
      Wing Wing Wing
 
      Hewwo?
-- id: 15930
-  en: Rumbling Rose
 - id: 15931
   en: Get this and then not fight Xaldin
 - id: 15932
