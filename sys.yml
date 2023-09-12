@@ -149,7 +149,7 @@
 - id: 12134
   en: Lets you spam Horizontal Slash more.
 - id: 12932
-  en: {:scale 24}GET UP ON THE HYDRAS BACK
+  en: "{:scale 24} GET UP ON THE HYDRAS BACK"
 - id: 13044
   en: "Somehow worse than regular fire? {:color #F0F00080}MP Cost: 10{:reset}"
 - id: 13045
