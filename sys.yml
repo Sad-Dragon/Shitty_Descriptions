@@ -1,39 +1,27 @@
 - id: 618
   en: Bear Yeetery
-- id: 760
-  en: Potion
 - id: 761
   en:
     "You eat it and your health go up.
 
     An equippable item."
-- id: 762
-  en: Hi-Potion
 - id: 763
   en: >-
      Hello to you too, Potion!
 
      An equippable item.
-- id: 764
-  en: Ether
 - id: 765
   en: Reflect juice. An equippable item.
-- id: 766
-  en: Elixir
 - id: 767
   en: >-
      Do not trust Donald and Goofy with these.
 
      An equippable item.
-- id: 768
-  en: Mega-Potion
 - id: 769
   en: >-
      Heal your dumbass team members.
 
      An equippable item.
-- id: 770
-  en: Mega-Ether
 - id: 771
   en: >-
      Surely they won't squander this immediately.
@@ -41,39 +29,20 @@
      Right?
 
      An equippable item.
-- id: 772
-  en: Megalixir
 - id: 773
   en: >-
      {:width 120}{:scale 20}UNLIMITED POWER. {:reset}
 
      An equippable item.
-- id: 1136
-  en: Cant believe he's dead for real
-- id: 1137
-  en: Jack was here for like 2 seconds, wtf
-- id: 1138
-  en: Auron is too cool to hang out with you losers
-- id: 1148
-  en: >-
-     Ping will be joining the party and cannot be
-
-     switched out for some time. Learn to live with it.
 - id: 1453
   en: >-
      Pitch one.
 
      Usable only from the Main Menu.
-- id: 1474
-  en: Kingdom Key
 - id: 1475
   en: The one and only keyblade...
-- id: 1476
-  en: Oathkeeper
 - id: 1477
   en: Built out of Light-weight materials.
-- id: 1478
-  en: Oblivion
 - id: 1479
   en: >-
      The head is made of the kanji for "darkness." 
@@ -99,8 +68,6 @@
   en:  "{:icon hash}pride"
 - id: 1517
   en: For the last time, it isn't a typo!
-- id: 1518
-  en: Way to the Dawn
 - id: 1519
   en: >-
      Better than Braveheart.
@@ -175,20 +142,14 @@
      getting juggled.
 - id: 10332
   en: D'oh
-- id: 10333
-  en: Feather Charm
 - id: 10334
   en: Hey Peter!
-- id: 12131
-  en: Combo Plus
 - id: 12132
   en: Lets you spam reflect more.
-- id: 12133
-  en: Air Combo Plus
 - id: 12134
   en: Lets you spam Horizontal Slash more.
 - id: 12932
-  en: GET UP ON THE HYDRAS BACK
+  en: {:scale 24}GET UP ON THE HYDRAS BACK
 - id: 13044
   en: "Somehow worse than regular fire? {:color #F0F00080}MP Cost: 10{:reset}"
 - id: 13045
@@ -349,6 +310,8 @@
      The Game Mode cannot be changed once
 
      the game has started.
+- id: 14626
+  en: "{:scale 24} GET UP ON THE HYDRA'S BACK"
 - id: 14732
   en: A little love tap.
 - id: 14733
