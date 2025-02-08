@@ -217,7 +217,7 @@
 - id: 13047
   en: Donald Thunder
 - id: 13048
-  en: He uses this instead of Cure... {:color #F0F00080}MP Cost: 10{:reset}
+  en: "He uses this instead of Cure... {:color #F0F00080}MP Cost: 10{:reset}"
 - id: 13049
   en: Donald Cure
 - id: 13050
@@ -226,23 +226,23 @@
 
      long enough for him to use it.
 
-     {:color #F0F00080}MP Cost: All{:reset}
+     "{:color #F0F00080}MP Cost: All{:reset}"
 - id: 13065
   en: Healing Water
 - id: 13066
   en: >-
      Its Lacroix!
-     {:color #F0F00080}MP Cost: 99{:reset}
+     "{:color #F0F00080}MP Cost: 99{:reset}"
 - id: 13087
   en: >-
      Restores the Party´s HP. But better than Donald.
-     {:color #F0F00080}MP Cost: 99{:reset}
+     "{:color #F0F00080}MP Cost: 99{:reset}"
 - id: 13092
   en: Healing Herb
 - id: 13093
   en: >-
      Is that what we're calling it now?
-     {:color #F0F00080}MP Cost: 99{:reset}
+     "{:color #F0F00080}MP Cost: 99{:reset}"
 - id: 13109
   en: Trinity Limit
 - id: 13110
