@@ -1,3 +1,5 @@
+- id: 595
+  en: The Epstein Files
 - id: 618
   en: Bear Yeetery
 - id: 760
@@ -198,6 +200,10 @@
   en: Feather Charm
 - id: 10334
   en: Hey Peter!
+- id: 12087
+  en: Look through PDF
+- id: 12088
+  en: Go to Jail!
 - id: 12131
   en: Combo Plus
 - id: 12132
@@ -517,6 +523,8 @@
   en: Picture
 - id: 15142
   en: You got the [     ] back!
+- id: 15204
+  en: Declasify Files!
 - id: 15226
   en: Basedball Charm
 - id: 15227
@@ -682,6 +690,8 @@
   en: MP Hastega
 - id: 15381
   en: TURN BLUE DAMNIT AAAAAAAA
+  - id: 15569
+  en: Freeze
 - id: 15867
   en: Stolen from Mickey
 - id: 15868
@@ -911,4 +921,5 @@
      OH BABY!
 
     
+
 
