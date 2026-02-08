@@ -437,7 +437,8 @@
 - id: 15349
   en: Drain those Gamblers dry!
 - id: 15351
-  en: Synth drops, amirite? "{:color #F0F00080}NEW{:reset}"
+  en: >-
+    Synth drops, amirite? "{:color #F0F00080}NEW{:reset}"
 - id: 15353
   en: Fwoosh!
 - id: 15355
@@ -447,7 +448,8 @@
 - id: 15359
   en: Who needs Hi-Potions, anyway?
 - id: 15361
-  en: MP be like "{:color #E7180B}>:({:reset}"
+  en: >-
+    MP be like "{:color #E7180B80}>:({:reset}"
 - id: 15363
   en: Hurry up!
 - id: 15365
